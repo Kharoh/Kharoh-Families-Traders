@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "onFocusChange",
+    "standard.autoFixOnSave": true,
+    "standard.enable": true,
+    "standard.run": "onSave",
+    // "javascript.validate.enable": false,
+    "files.exclude": {
+        "**/*.css": true,
+        "**/*.css.map": true,
+        "**/node_modules": true,
+    },
+}
